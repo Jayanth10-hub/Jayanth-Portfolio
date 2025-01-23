@@ -14,5 +14,4 @@
   <br>
   => run { npm run dev } </p>
   <br>
-<h3>Screenshots</h3>
-<br>
+
